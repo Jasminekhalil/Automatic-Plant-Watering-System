@@ -6,4 +6,6 @@ This project is a system that checks the <b>moisture level</b> of the soil in a 
 
 ## Visuals
 
+[Automatic Plant Watering System In Action](https://www.youtube.com/watch?v=Uy4JWaQ_5t4)
+
 <p><img height=350 align="center" src="visuals/APWSimage.png"/></p>
